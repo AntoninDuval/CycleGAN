@@ -3,7 +3,7 @@ This repository contains code for training  a CycleGAN on T2 MRI images and CT s
 
 ![alt text](ct_scan_mri.PNG "Title")
 
-This was originally made on Google Colab platform, you can find the notebooks under the folder "/notebooks". The dataset was extracted 
+This was originally made on Google Colab platform, you can find the notebooks under the folder "/notebooks". The dataset for CT scans was extracted from the open dataset CQ500, while the MRI images are from [IXI] [!https://brain-development.org/ixi-dataset/]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDA5MDA2MSw5MzAyMTQ5MzFdfQ==
+eyJoaXN0b3J5IjpbLTQyOTU1MzExMiw5MzAyMTQ5MzFdfQ==
 -->
